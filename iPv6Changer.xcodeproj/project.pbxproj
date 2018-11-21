@@ -13,6 +13,7 @@
 		13F236982187077B009A51B7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13F236972187077B009A51B7 /* Assets.xcassets */; };
 		13F2369B2187077B009A51B7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 13F236992187077B009A51B7 /* LaunchScreen.storyboard */; };
 		13F236A62187077B009A51B7 /* iPv6ChangerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13F236A52187077B009A51B7 /* iPv6ChangerTests.swift */; };
+		13F236B1218707D0009A51B7 /* networkchanger.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13F236B0218707D0009A51B7 /* networkchanger.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		13F236A12187077B009A51B7 /* iPv6ChangerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = iPv6ChangerTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		13F236A52187077B009A51B7 /* iPv6ChangerTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iPv6ChangerTests.swift; sourceTree = "<group>"; };
 		13F236A72187077B009A51B7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		13F236B0218707D0009A51B7 /* networkchanger.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = networkchanger.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 			children = (
 				13F2369021870779009A51B7 /* AppDelegate.swift */,
 				13F2369221870779009A51B7 /* ViewController.swift */,
+				13F236B0218707D0009A51B7 /* networkchanger.swift */,
 				13F2369421870779009A51B7 /* Main.storyboard */,
 				13F236972187077B009A51B7 /* Assets.xcassets */,
 				13F236992187077B009A51B7 /* LaunchScreen.storyboard */,
@@ -199,6 +202,7 @@
 			files = (
 				13F2369321870779009A51B7 /* ViewController.swift in Sources */,
 				13F2369121870779009A51B7 /* AppDelegate.swift in Sources */,
+				13F236B1218707D0009A51B7 /* networkchanger.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
